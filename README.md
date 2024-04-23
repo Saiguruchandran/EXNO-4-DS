@@ -24,6 +24,6 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+       
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+thus the program to read the given data and perform Feature scaling and Feature slection process and save the data to a file is been executed
